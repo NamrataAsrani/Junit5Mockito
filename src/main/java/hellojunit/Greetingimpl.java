@@ -10,6 +10,7 @@ public class Greetingimpl implements Greeting {
 		// TODO Auto-generated method stub
 		
 		return service.greet(name);
+		// return null;
 	}
 
 }
